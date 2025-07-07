@@ -26,7 +26,7 @@ public class Register extends HttpServlet {
 			throws ServletException, IOException {
 
 		
-		response.getWriter().append("Served at: ").append(request.getContextPath()+"remoteee"); 
+		response.getWriter().append("Served at: ").append(request.getContextPath()+"cloud changes"); 
 	}
 
 	 
