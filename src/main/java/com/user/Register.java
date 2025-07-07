@@ -28,6 +28,7 @@ public class Register extends HttpServlet {
 		
 		response.getWriter().append("Served at: ").append(request.getContextPath()+"ground11"); 
 		response.getWriter().append("Served at: ").append(request.getContextPath()+"remotee"); 
+		
 	}
 
 	 
